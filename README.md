@@ -1,6 +1,6 @@
 # Hello!, i'am Kayky Lima
 
-- 🖱️ i'am studing Computing science in the UNINOVE
+- 🖱️ With a degree Computing science in the UNINOVE
 - 🍃 Passionate about technology, education and changing people's lives through programming
 - 😄 Pronouns: ele/dele
   
